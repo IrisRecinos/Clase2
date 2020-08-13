@@ -1,0 +1,12 @@
+ant -f "C:\\Users\\iris recinos\\Documents\\GitHub\\Clase2\\JavaApplication6" -Dnb.internal.action.name=run run
+init:
+deps-jar:
+Created dir: C:\Users\iris recinos\Documents\GitHub\Clase2\JavaApplication6\build
+Updating property file: C:\Users\iris recinos\Documents\GitHub\Clase2\JavaApplication6\build\built-jar.properties
+Created dir: C:\Users\iris recinos\Documents\GitHub\Clase2\JavaApplication6\build\classes
+Created dir: C:\Users\iris recinos\Documents\GitHub\Clase2\JavaApplication6\build\empty
+Created dir: C:\Users\iris recinos\Documents\GitHub\Clase2\JavaApplication6\build\generated-sources\ap-source-output
+Compiling 2 source files to C:\Users\iris recinos\Documents\GitHub\Clase2\JavaApplication6\build\classes
+compile:
+run:
+BUILD SUCCESSFUL (total time: 3 seconds)
