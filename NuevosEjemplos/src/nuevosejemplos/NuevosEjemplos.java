@@ -20,12 +20,14 @@ public class NuevosEjemplos {
         
         FuncionesMatematicas Funciones =new FuncionesMatematicas();
         
+        System.out.println(Funciones.Suma());
+        System.out.println(Funciones.Resta());
         System.out.println(Funciones.divicion());
 //        donde va suma puede ir tambien resta divicion o multiplicacion 
 //funcionesMatematicas = la clase 
 //funciones =el objeto
-//las propiedades=dicicion, println o asi
-//TODO ESTO ES LA INSTANCIA OK.
+//las propiedades=divicion,suma,println etc.
+//TODO ESTO ES LA INSTANCIA
         
       
      

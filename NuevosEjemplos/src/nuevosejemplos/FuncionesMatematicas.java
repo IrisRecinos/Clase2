@@ -48,7 +48,7 @@ public class FuncionesMatematicas {
   
   Resultado= dato1 / dato2;   
   return Resultado;
-//  aca pusimos duble en divicion por que el resultado en diviciones aveces es decimal
+//  Utilizamos duble para la divicion en cambio en la resta y la suma utilizamos return
           
   }
   
